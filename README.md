@@ -5,6 +5,7 @@
 ## 🌐 Socials & Accounts:
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=Dev.to&logoColor=white)](https://dev.to/vimingofficial)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)]([https://dev.to/vimingofficial](https://stackoverflow.com/users/27887488/viming))
+[![Medium](https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@AmiraliPouyanrad)
 
 
 ## 💻 Tech Stack (be sure, more added soon):
