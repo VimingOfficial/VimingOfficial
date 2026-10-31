@@ -15,6 +15,7 @@ A Django REST Framework backend for a social platform built around movies and TV
 - JWT authentication, object-level visibility rules, per-domain rate limiting
 - TMDB integration isolated behind a caching client; append-only activity stream; the feed is a read layer over it
 - Deterministic, explainable scoring and ranking — no ML black boxes
+- The repository documents its own [feature matrix](https://github.com/VimingOfficial/movie-social-platform-backend#feature-completion-matrix), phase plan and roadmap, with a security policy and contribution guide
 - The backend is my work; the frontend is a separate codebase built by a collaborator
 
 **Repository: [VimingOfficial/movie-social-platform-backend](https://github.com/VimingOfficial/movie-social-platform-backend)**
@@ -29,7 +30,6 @@ A Django REST Framework backend for a social platform built around movies and TV
 | **APIs** | REST, JWT authentication, OpenAPI / Swagger (drf-spectacular), Postman |
 | **Tooling** | Git, GitHub, Linux, Docker (basics), Redis (basics) |
 | **Practices** | Service-layer architecture, unit and API testing, ADRs, documentation-first workflow |
-
 
 #### Writing
 
