@@ -30,10 +30,6 @@ A Django REST Framework backend for a social platform built around movies and TV
 | **Tooling** | Git, GitHub, Linux, Docker (basics), Redis (basics) |
 | **Practices** | Service-layer architecture, unit and API testing, ADRs, documentation-first workflow |
 
-#### Other projects
-
-- **[AIWeatherBot](https://github.com/VimingOfficial/AIWeatherBot)** — Python Telegram bot delivering AI-generated weather reports, with multi-language support and scheduled delivery.
-- **[simple-university-codes](https://github.com/VimingOfficial/simple-university-codes)** — Python exercises and small applications from my first university semesters.
 
 #### Writing
 
